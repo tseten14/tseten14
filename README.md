@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tseten14
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Python, SQL and C++
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Javascript, React, and Node.js
 - 📫 How to reach me on sherpatseten14@gmail.com
 
 <!---

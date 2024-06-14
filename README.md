@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tseten14
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Advanced React for more projects.
+- 👀 I’m interested in Data Engineering/Machine Leaning
+- 🌱 I’m currently learning Advanced Data Science for more projects.
 - 📫 Reach me on sherpatseten14@gmail.com
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tseten14
-- 👀 I’m interested in Data Engineering/Machine Leaning
+- 👀 I’m interested in Data Analytics/ Data Engineering
 - 🌱 I’m currently learning Advanced Data Science for more projects.
 - 📫 Reach me on sherpatseten14@gmail.com
 
